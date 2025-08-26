@@ -1,0 +1,24 @@
+numpy
+tqdm
+librosa
+moviepy
+soundfile
+torch
+torchaudio
+opencv-python
+matplotlib
+numpy
+tqdm
+librosa>=0.10
+scipy
+audioread
+pooch
+moviepy
+imageio
+imageio-ffmpeg
+soundfile>=0.12
+torch==2.4.*
+torchaudio==2.4.*
+opencv-python
+matplotlib
+numba; python_version < "3.12"

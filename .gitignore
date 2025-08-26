@@ -1,0 +1,8 @@
+TODO.md
+*.mpg
+*.align
+*.wav
+*.npy
+*.DS*
+.vscode
+data/model/check*
